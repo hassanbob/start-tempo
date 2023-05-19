@@ -1,0 +1,571 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,500;1,700;1,800;1,900&display=swap');
+
+body {
+
+    /* Path 34850 */
+
+    /* position: absolute; */
+    /* width: 1519px;
+    height: 1209.6px; */
+    background: #870df0;
+    background: linear-gradient(135deg,
+            #870df0 0.00%,
+            #4819e2 100.00%);
+    font-family: 'Bodoni Moda', serif;
+box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+scroll-behavior: smooth;
+
+}
+
+body::-webkit-scrollbar {
+    width: .5px;
+  }
+   
+  body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.9);
+  }
+   
+  body::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 0.5px solid slategrey;
+  }
+
+
+.flex-navbar {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.logo {
+    /* Group 39863 */
+    font-size: 41px;
+    font-weight: normal;
+    font-family: Helvetica Neue LT W06;
+    text-align: left;
+    text-decoration: none;
+    color: white;
+}
+
+.cash {
+    margin-left: 10px;
+}
+
+
+.centar-links {
+    font-family: 'Poppins', sans-serif;
+    size: 18px;
+    font-weight: normal;
+    text-align: left;
+
+}
+
+.nav-link {
+    color: #7E7E7E
+}
+
+.active {
+    color: white;
+}
+
+.sign-in {
+    /* Rectangle 3 */
+
+    /* position: absolute; */
+    width: 212px;
+    height: 60px;
+
+    border-color: #e8e8e8;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    background: #6913e9;
+
+
+
+}
+
+.bt-offer{    width: 212px;
+    height: 60px;
+color: #000;
+    border-color: #e8e8e8;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    background: #efedf1;
+}
+.bt-more{    width: 212px;
+    height: 60px;
+color: white;
+    border-color: #e8e8e8;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    background: #6913e9;
+}
+
+.icon {
+    /* Ellipse 1506 */
+
+    /* position: absolute; */
+    width: 15.9px;
+    height: 15.9px;
+    margin-right: 20px;
+
+}
+
+/* start body  */
+
+.social{
+    text-align: center;
+    font-size: 36px;
+    margin: 162px 0px 0px -25px;
+}
+
+h1 {
+    /* Fast Cash For
+Slow Cars */
+
+    width: 581px;
+    height: 197px;
+
+
+    font-family: "Poppins";
+    font-size: 84px;
+    font-weight: bold;
+    line-height: 79px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    margin: 155px 1px 1px 14px;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+    margin: -25px 1px 1px 25px;
+}
+
+/* end body  */
+p.p2 {
+    font-size: 24px;
+    color: white;
+    margin: 2px 11px 44px 25px;
+}
+
+.box2{margin-top: 80px;}
+
+
+.circle{
+
+/* position: absolute; */
+width: 676px;
+height: 676px;
+
+border-color: #ffffff;
+border-width: 2px;
+border-style: solid;
+border-radius: 50%;
+
+}
+
+.circle2{
+    width: 648px;
+    height: 676px;
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    margin-left: 25px;
+    background: white;
+    }
+
+.container{
+    display: grid;
+grid-template-columns: 5% 50% 45%;
+margin: 0;
+}
+
+.arrow-down {
+    /* width: 1529px; */
+    height: 222px;
+    border-left: 740px solid transparent;
+    border-right: 772px solid transparent;
+    border-top: 111px solid #7310eb;
+    z-index: 111111;
+    position: absolute;
+    margin-top: 4px;
+
+  }
+
+
+.title-one{
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+    height: 309px;
+    margin-top: 5px;
+    padding: 143px;
+
+}
+
+
+.title-two
+
+
+{margin-top: -1050px;}
+
+h2{   margin-top: 30px;
+    /* width: 488px; */
+    height: 58px;
+    /* border-color: #000000; */
+    /* border-width: 1px; */
+    /* border-style: dashed; */
+    font-family: "Poppins";
+    font-size: 41px;
+    font-weight: bold;
+    line-height: 78px;
+    font-style: normal;
+    text-align: center;
+    color: #000000;}
+
+.paragra{  
+      margin-top: 10px;
+ margin-bottom: 45px;
+height: 25px;
+font-family: "Poppins";
+font-size: 17px;
+font-weight: normal;
+line-height: 23px;
+font-style: normal;
+text-align: center;
+color: #000000;}
+
+.container2{
+    display: grid;
+grid-template-columns: 33% 33% 33%;
+margin: 0;
+background-color: white;
+height: 600px;
+}
+
+.box-image{text-align: center;}
+
+
+/* .arrow-up {
+    width: 0; 
+    height: 0; 
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    
+    border-bottom: 5px solid black;
+  } */
+.arrow{    background:white;
+    width: 1534px;
+}
+.car-img{width: 1534px;}
+
+.rectangle {
+    height: 1000px;
+    width: 1534px;
+    background-color: #ffffff;
+  }
+
+
+
+
+  .container-choose{
+    display: grid;
+grid-template-columns: 30% 28% 25% 17%;
+margin: 0;
+}
+
+p.act {
+    text-align: center;
+    font-size: 18px;
+    width: 180px;
+    margin-top: 5px;
+  }
+p{color: #000;
+margin-top: 0px;}
+
+
+.up-first{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.card-text{margin-top: -45px;
+color: #0055FF;}
+.card-text2{margin-top: -23px;
+color: #0055FF;}
+.card-title{
+    width: 354px;
+    height: 53px;
+    font-family: "Montserrat";
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    color: #333333;
+    }
+
+    .details-flex{        justify-content: flex-end;
+        font-size: 10px;
+        float: right;
+        display: inline-flex;
+    margin-top: -28px;}
+
+    .details-flex-start{    display: flex;
+        justify-content: flex-start;
+        font-size: 10px;}
+
+.bt-blue{background-color: #0055FF;
+color: white;
+margin: 14px;
+width: 192px;}
+.bt-black{    background-color: #202020;
+    margin: 14px;
+    margin-top: -1px;
+    color: white;
+    width: 192px;
+}
+
+.container-details{ display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin: 0px;}
+
+.det{margin-top: -25px;
+font-size: 14px;}
+
+.body-posrsh{
+padding-top: 200px;
+    padding-left: 12px;
+    background-image:url(sax.png);
+}
+
+
+
+.container-grid{display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0px;}
+
+.first{
+    background-color: #4819e2;
+
+    width: 950px;
+    height: 850px;
+}
+.sac{background-color: white;
+width: 919px;
+height: 850px;}
+
+
+.tray3{
+width: 1535px;
+height: 200px;
+margin-top: -20px;
+}
+
+
+.abc{
+    width: 591px;
+    height: 21px;
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 25px;
+    font-style: normal;
+    margin-left: 65px;
+    margin-top: 50px;
+
+}
+h2.abcz{    width: 570px;
+    height: 50px;
+    font-family: "Montserrat";
+    font-size: 44px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    color: #333333;
+    margin-top: 0px;}
+
+
+
+    .title-three{
+
+        margin-top: 50px;
+        width: 600px;
+    }
+
+    .bar{
+        width: 566px;
+        height: 19px;
+        
+        
+        font-family: "Montserrat";
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 25px;
+        font-style: normal;
+        text-align: left;
+        letter-spacing: 2px;
+        color: #000000;
+    }
+    .bar-h{width: 231px;
+        height: 14px;
+        
+        
+        font-family: "Montserrat";
+        font-size: 10px;
+        font-weight: 300;
+        line-height: 25px;
+        font-style: normal;
+        text-align: left;
+        color: #bababa;}
+        .bar-g{
+            width: 471px;
+height: 45px;
+font-family: "Montserrat";
+font-size: 15px;
+font-weight: 300;
+line-height: 25px;
+font-style: normal;
+text-align: left;
+color: #000000;
+        }
+    .dorg{position: relative;
+        margin: 45px;}
+    .shap{position: absolute;
+        margin-left: -26px;}
+
+.span{    width: 5px;
+    height: 60px;
+    background-color: #0055FF;
+    display: inline-block;
+    margin-top: -14px;
+    margin-left: -25px;}
+
+.last-container{display: grid;
+    grid-template-columns: 45% 45%;
+    margin: 0px;
+background-color: white;
+box-sizing: border-box;
+height: 900px;}
+
+.last-container2{display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin: 0px;
+background-color: white;
+box-sizing: border-box;
+height: 530px;}
+
+.last-paragra{
+    width: 370px;
+    height: 30px;
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 25px;
+    font-style: normal;
+    text-align: left;
+    /* letter-spacing: 50px; */
+    color: #0055ff;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nost */
+.sac-paragra{
+    width: 500px;
+    height: 91px;
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 25px;
+    font-style: normal;
+    text-align: left;
+    color: #676767;
+
+}
+.happy{margin-top: 78px;}
+
+
+.foot{background-color: white;}
+.footer{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin: 0px;
+}
+
+
+.ziz{    font-size: 29px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    color: #000000;
+}
+.one-one{background-color: rgb(0, 0, 0);
+    width: 497px;
+    height: 500px;
+
+    /* background-color: white;
+    width: 497px;
+    height: 500px;
+    position: absolute;
+    margin-top: -610px;
+    margin-left: 90px; */
+
+}
+.cash-foot{/* Path 34846 */
+
+
+
+background: #ffffff
+}
+.pragra-foot{/* Mon-Sat: 07.00am - 18.00pm
+Sunday is closed */
+
+font-family: "Montserrat";
+    font-size: 17px;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    color: #8c8c8c;
+    line-height: 4;
+}
+
+    .amod{width: 5px;
+        height: 60px;
+        background-color: #0055FF;
+        display: inline-block;
+        margin-top: 40px;
+        margin-left: -25px;
+        color: white;}
+
+        .title-footer1{
+            width: 280px;
+            height: 19px;
+            font-family: "Montserrat";
+            font-size: 30px;
+            font-weight: bold;
+            line-height: 25px;
+            font-style: normal;
+            text-align: left;
+            color: white;
+            margin-top: -40px;
+            margin-bottom: 70px;
+        }
+
+        .links{
+
+    width: 290px;
+    height: 37px;
+    font-size: 21px;
+    color: #ffffff;
+            }
+            footer{    box-sizing: border-box;
+                margin-top: -670px;
+            color: white;}
